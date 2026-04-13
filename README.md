@@ -1,17 +1,10 @@
-# 🤖 AI Data Analyst Agent (Streamlit)
+# 🚀 ML Portfolio - Damian Ocampo
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-data-analyst.streamlit.app)
+## 📁 Proyectos Live
 
-**Sube cualquier CSV → Análisis automático + Charts en 5 segundos**
+| # | Proyecto | Status |
+|---|----------|--------|
+| 1 | [AI Data Analyst](ai-data-analyst/) | ✅ LIVE |
+| 2 | [Credit Card Fraud](credit-card-fraud-detection/) | ✅ **91% Recall** |
 
-## 🚀 Demo
-![Demo](demo.png) <!-- Sube tu screenshot aquí -->
-
-## Features
-✅ **Auto Charts** - Histogram primera columna numérica  
-✅ **Dashboard Metrics** - Filas/columnas/nulos
-✅ **Dataset Preview** - Primeras 5 filas
-✅ **Memory Usage** - Optimización datos
-✅ **100% Local** - No APIs, 0 costo
-
-## Tech Stack
+**docamposb94@gmail.com | B2 English**
